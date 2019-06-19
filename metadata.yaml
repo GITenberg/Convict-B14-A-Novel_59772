@@ -1,11 +1,16 @@
 _repo: Convict-B14-A-Novel_59772
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59772-h/images/cover.jpg
 creator:
   author:
     agent_name: Weekes, Rose Kirkpatrick (R. K.)
     gutenberg_agent_id: '50622'
     url: http://www.gutenberg.org/2009/agents/50622
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59772#Convict-B14-A-Novel
 gutenberg_issued: '2019-06-17'
 gutenberg_type: Text
 identifiers:
